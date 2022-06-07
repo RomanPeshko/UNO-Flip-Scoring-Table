@@ -1,0 +1,25 @@
+{
+  "name": "uno",
+  "version": "1.0.0",
+  "description": "Uno flip scoring table",
+  "main": "index.js",
+  "scripts": {
+    "test": "test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanPeshko/UNO-Flip-Scoring-Table.git"
+  },
+  "keywords": [
+    "uno",
+    "flip",
+    "uno",
+    "scoring"
+  ],
+  "author": "Roman Peshko",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/RomanPeshko/UNO-Flip-Scoring-Table/issues"
+  },
+  "homepage": "https://github.com/RomanPeshko/UNO-Flip-Scoring-Table#readme"
+}
